@@ -12,12 +12,6 @@ class Modal extends Component {
     );
   }
 
-  componentWillUpdate() {
-    console.log("====================================");
-    console.log("modal wu");
-    console.log("====================================");
-  }
-
   render() {
     return (
       <Aux>
